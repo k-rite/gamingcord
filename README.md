@@ -1,0 +1,2 @@
+# gamingcord
+discord bot
